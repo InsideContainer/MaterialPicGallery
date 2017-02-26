@@ -1,0 +1,19 @@
+{
+    "screenshots": [
+        {
+            "img": "assets/pics/rickAndMorty.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectrtur adipiscing elit, sed do",
+            "liked": "0"
+        },
+         {
+            "img": "assets/pics/husky.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectrtur adipiscing elit, sed do",
+            "liked": "0"
+        },
+         {
+            "img": "assets/pics/cat.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectrtur adipiscing elit, sed do",
+            "liked": "0"
+        }
+    ]
+}
